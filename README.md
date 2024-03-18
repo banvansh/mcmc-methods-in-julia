@@ -1,7 +1,7 @@
 # MCMC Methods in Julia
 We will use this repository for accepting assignment submissions.
 
-## Link to the resources:
+## Resources and Assignments:
 [MCMC Methods in Julia (Resources)](https://docs.google.com/document/d/1eioUEP7i1V89BIXY8u6L3qkvIZchk63ukC6tHJMiSrw/edit?usp=sharing)
 
 ## Assignments
